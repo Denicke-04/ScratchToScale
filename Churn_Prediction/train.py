@@ -16,7 +16,7 @@ df= pd.read_csv('data.csv')
 # ### Set parameters
 C = 1
 n_splits = 10
-output_file = f"Churn_Prediction_model_C= {C}.bin"
+output_file = f"Churn_Prediction_model_C={C}.bin"
 
 # ### Data Cleaning
 print("Cleaning Data...")
@@ -30,6 +30,7 @@ categorical = ['gender', 'partner', 'dependents',
        'paymentmethod']
 for c in categorical:
     df[c] = df[c].str.lower().str.replace(' ','_')
+del df['customerid']
 df.totalcharges = df.totalcharges.fillna(0)
 df.churn = (df.churn == 'Yes').astype(int)
 
