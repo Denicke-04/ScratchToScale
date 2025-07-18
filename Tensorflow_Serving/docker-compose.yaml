@@ -1,0 +1,9 @@
+services:
+  clothing_model:
+    image: 'xception_v1_model:001'
+  gateway:
+    image: "gateway:001"
+    environment:
+      - TF_CLOTHING_MODEL_HOST=clothing_model:8500
+    ports:
+      - "9600:9600"
