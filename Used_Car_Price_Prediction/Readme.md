@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Prediction — Linear Regression from Scratch with NumPy & Pandas
+## 🚗 Used Car Price Prediction — Linear Regression from Scratch with NumPy & Pandas
 
 This project implements a **Linear Regression model from scratch** (no ML libraries like `scikit-learn` or `statsmodels`) 
 to predict the **selling price of used cars** using structured data. The goal is to understand how machine learning works 
