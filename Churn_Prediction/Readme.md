@@ -1,4 +1,4 @@
-# 📉 Churn Prediction — Logistic Regression with Flask & AWS Deployment
+## 📉 Churn Prediction — Logistic Regression with Flask & AWS
 
 This project predicts customer churn based on behavioral and demographic features. It demonstrates an end-to-end 
 machine learning workflow from training and packaging a model to deploying it as a REST API using **Flask**, **Docker**
