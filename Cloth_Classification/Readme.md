@@ -1,4 +1,6 @@
-# 👕 Cloth Classification — Vision Model with TFLite, Docker & AWS Deployments
+## 👕 Cloth Classification  
+### Vision Model with TFLite, Docker & AWS Deployments
+
 
 This project classifies images of clothing items using a deep learning model based on **transfer learning**. 
 It focuses on building a lightweight, production-ready image classifier and deploying it across **AWS Lambda**, 
