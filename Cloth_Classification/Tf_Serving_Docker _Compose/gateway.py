@@ -8,7 +8,7 @@ import requests
 from io import BytesIO
 from flask import Flask,request,jsonify
 
-host = os.getenv('TF_CLOTHING_MODEL_HOST','locahost:8500')
+host = os.getenv('TF_CLOTHING_MODEL_HOST','localhost:8500')
 channel = grpc.insecure_channel(host)
 stub = prediction_service_pb2_grpc.PredictionServiceStub(channel)
 pants_url = 'https://bit.ly/pants-test'
