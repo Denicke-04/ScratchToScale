@@ -91,6 +91,6 @@ If you're a recruiter or hiring manager looking for someone who can build, ship 
 
 #### 📬 Let’s Connect
 
-💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/denicke-solomon-4147761b0/)
+💼 [LinkedIn](https://www.linkedin.com/in/denicke-solomon-4147761b0/)
 
-📧 Email: [Email](mailto:denickesolomon2462@gmail.com)
+📧 [Email](mailto:denickesolomon2462@gmail.com)
