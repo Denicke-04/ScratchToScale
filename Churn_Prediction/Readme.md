@@ -55,6 +55,7 @@ Test with:
 ```bash
 python prediction_request_localhost.py
 ```
+---
 
 ### ☁️ 2. Cloud Deployment (AWS Elastic Beanstalk)
 
@@ -69,3 +70,5 @@ Test with:
 python prediction_request_AWS_elastic_beans.py
 ```
 Update `url = ...` in the script to match your AWS endpoint.
+
+---
