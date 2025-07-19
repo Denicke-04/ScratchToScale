@@ -61,11 +61,36 @@ A regression project estimating the price of used cars from tabular data — bui
 
 ---
 
+### ⚠️ A Friendly Note on Model Performance
+
+These projects prioritize real-world deployment and engineering over state-of-the-art model performance.
+Models typically achieve around 80–90% accuracy but the core focus is on:
+
+- ML pipeline design
+- REST API-based model serving
+- Cross-platform deployment
+- Containerization and reproducibility
+
 ## 🧩 Repository Structure
 
 ```plaintext
-From-Scratch-to-Scale/
+ScratchToScale/
 ├── Churn_Prediction/               # Classification + AWS Elastic Beanstalk + Docker
 ├── Cloth_Classification/           # Vision + Lambda + EKS + TensorFlow Serving
 ├── Used_Car_Price_Prediction_/     # Tabular regression with EDA + modeling
 ├── README.md                       # Main portfolio overview (this file)
+```
+---
+
+### 💼 About Me
+
+I'm an AI/ML Engineer passionate about building scalable, production-ready ML systems.
+From algorithm design to cloud deployment I love turning prototypes into real usable software.
+
+If you're a recruiter or hiring manager looking for someone who can build, ship and scale ML, let’s connect.
+
+#### 📬 Let’s Connect
+
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/denicke-solomon-4147761b0/)
+
+📧 Email: [Email](mailto:denickesolomon2462@gmail.com)
