@@ -43,7 +43,7 @@ categorical variables.
 
 ---
 
-## 📈 Project Flow
+## 📈 Process Flow
 
 1. **Import and Clean Data**  
    Load CSV, handle missing values and convert data types.
