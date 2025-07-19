@@ -77,7 +77,7 @@ Models typically achieve around 80–90% accuracy but the core focus is on:
 ScratchToScale/
 ├── Churn_Prediction/               # Classification + AWS Elastic Beanstalk + Docker
 ├── Cloth_Classification/           # Vision + Lambda + EKS + TensorFlow Serving
-├── Used_Car_Price_Prediction_/     # Tabular regression with EDA + modeling
+├── Used_Car_Price_Prediction/      # Tabular regression with EDA + modeling
 ├── README.md                       # Main portfolio overview (this file)
 ```
 ---
