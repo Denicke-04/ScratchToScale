@@ -64,7 +64,7 @@ A regression project estimating the price of used cars from tabular data — bui
 ## 🧩 Repository Structure
 
 ```plaintext
-Projects/
+From-Scratch-to-Scale/
 ├── Churn_Prediction/               # Classification + AWS Elastic Beanstalk + Docker
 ├── Cloth_Classification/           # Vision + Lambda + EKS + TensorFlow Serving
 ├── Used_Car_Price_Prediction_/     # Tabular regression with EDA + modeling
