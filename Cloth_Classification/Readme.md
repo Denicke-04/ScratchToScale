@@ -47,7 +47,8 @@ It demonstrates the full ML lifecycle:
 - Packaged as a **Docker container image** for Lambda deployment
 - Optimized for minimal cold start
 - Lightweight and fast
-- Ideal for on-demand classification (e.g., mobile uploads or API gateways)
+
+> Ideal for on-demand classification (e.g., mobile uploads or API gateways)
 
   ---
 
