@@ -49,6 +49,8 @@ It demonstrates the full ML lifecycle:
 - Lightweight and fast
 - Ideal for on-demand classification (e.g., mobile uploads or API gateways)
 
+  ---
+
 ### 📦 2. [TensorFlow Serving (Docker Compose + API Gateway)](./Tf_Serving_Docker_Compose)
 
 - Production-grade setup using **two Docker containers**:
@@ -58,6 +60,8 @@ It demonstrates the full ML lifecycle:
 - gRPC-based high-performance inference, triggered via REST calls to the Flask API
 
 > This setup simulates a real-world microservice architecture and is ideal for scalable, container-native ML inference.
+
+---
 
 ### ☸️ 3. [Kubernetes (EKS)](./EKS_Model_Deployment)
 
@@ -71,3 +75,4 @@ It demonstrates the full ML lifecycle:
 
 > This architecture separates user interaction from model inference and follows modern microservice best practices using service discovery within the EKS cluster.
 
+---
