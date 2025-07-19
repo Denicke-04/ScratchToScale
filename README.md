@@ -9,7 +9,7 @@ Each project is independently packaged, containerized and deployed using product
 ## 🚀 Featured Projects
 
 ### 📉 [Churn Prediction](./Churn_Prediction)
-A classification project predicting customers who churn from a telecommunication system based on user activity and engagement.
+A classification project predicting customers who churn based on user activity and engagement.
 
 **Key Features:**
 - Trained using Logistic Regression with `scikit-learn`
