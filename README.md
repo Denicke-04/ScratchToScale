@@ -36,7 +36,7 @@ A deep learning project for image classification using transfer learning and mul
 
 ---
 
-### 🚗 [Used Car Price Prediction](./Used_Car_Price_Prediction_no_functions)
+### 🚗 [Used Car Price Prediction](./Used_Car_Price_Prediction)
 A regression project estimating the price of used cars from tabular data — built entirely from scratch.
 
 **Key Features:**
